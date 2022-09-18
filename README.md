@@ -1,13 +1,3 @@
-# Project Skeleton
-003-parallax-website (folder)
-|
-|----readme.md         # Given to the students (Definition of the project)          
-|----images            # Given to the students (Images of the project)   
-|----solution
-        |----index.html  
-        |----style.css   
-        |----images
-
 ## Objective
 
 At the end of the project, following topics are to be covered;
