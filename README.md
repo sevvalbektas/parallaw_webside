@@ -1,3 +1,4 @@
+## Project-003: Parallax Website (H3-03)
 ## Objective
 
 At the end of the project, following topics are to be covered;
